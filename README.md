@@ -45,9 +45,10 @@ Packs added to this repository should be in the following json format. Valid `co
 			"name": "Username",
 			"link": "<link>"
 		},
-    ...
+		...
 	],
 	"contains": ["<element>", "<element>", ...],
 	"tags": ["<tag 1>", "<tag 2>", ...]
 }
 ```
+The file name should be the pack's name in lowercase, with spaces replaced with underscores and non alpha-numeric character removed.
