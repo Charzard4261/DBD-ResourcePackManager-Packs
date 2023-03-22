@@ -22,7 +22,8 @@ Pack.zip
 ```
 Fill out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeoz3gwXeL4Ml_ziA1u8PWeClTN1xW4ejai6iWBiVq_I4kb0w/viewform) with the following information:
 - Your pack's name
-- Your pack's version, including the lastest chapter it is made for
+- Your pack's version
+- The chapter your pack is made for
 - A method of contact (Discord, Email etc)
 - A direct download link to your pack
 - A direct link to a banner for your pack (Imgur, etc)
