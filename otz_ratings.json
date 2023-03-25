@@ -1,0 +1,23 @@
+{
+	"name": "Otz Ratings",
+	"chapter": 27.0,
+	"packVersion": 1,
+	"bannerLink": "https://i.redd.it/r4j7hjujmzna1.png",
+	"downloadLink": "https://drive.google.com/u/0/uc?id=15_GDqjJ6F4kywasPwA281cbXCAmD_sPR&export=download",
+	"credits": [
+		{
+			"name": "StateOfBedlam",
+			"link": "https://www.reddit.com/user/StateOfBedlam"
+		},
+		{
+			"name": "littleladyvader#0180",
+			"link": ""
+		}
+	],
+	"contains": [
+		"perks"
+	],
+	"tags": [
+		"otzdarva"
+	]
+}
