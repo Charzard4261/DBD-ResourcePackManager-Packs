@@ -1,0 +1,19 @@
+{
+	"name": "A Glow in the Dark",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1EcHZT46YEbSyzTJdjJv-uRmVMsTzb3cg",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1CbDEFtF7XzlwNRU9vl79ABiwPSE6lBDZ",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://www.youtube.com/watch?v=E7xRzIg98OY"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Neon", "Dark", "Light"
+	]
+}
