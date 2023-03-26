@@ -1,0 +1,24 @@
+{
+	"name": "",
+	"chapter": 27.0,
+	"packVersion": 1.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=18DcBgm0iw_i7b09gsKBRP9x_XO5_douI",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1b05rIDTzgrfOGqSISa4fFXIN-rNV_iLi",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		},
+		{
+			"name": "CorneR",
+			"link": ""
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Pixelart", "Pixel", "Phantom", "CorneR"
+	]
+}

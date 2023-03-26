@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Blood Stained",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1GIOtTall4aIdElAygFcA1RfCttckg7Hi",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1u2Tsu2oLWgZLHxI5G1E5mpSBmulHxydL",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Blood", "Red", "Phantom"
+	]
+}

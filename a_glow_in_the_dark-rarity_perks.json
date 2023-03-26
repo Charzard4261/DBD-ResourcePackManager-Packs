@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Rarity Perks",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1YG0FJ7xxgik_fNwxCVoVyp3ofBXYCYwK",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1zKzZDE02ewWJng5xPlCVT-XYtr5jQR30",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Color", "Phantom"
+	]
+}

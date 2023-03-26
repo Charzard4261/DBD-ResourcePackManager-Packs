@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Ghastly Gloom",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=19fr3sRVv3VfapFdjSWxYmZg9wl6AhmbC",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1Ak5-V4Hem5iWvjNho2OIyI639DUoJs09",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Ghost", "Spirit", "Blue", "Green", "Aqua", "Phantom"
+	]
+}

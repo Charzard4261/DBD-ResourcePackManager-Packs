@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Bubblegum",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1tU7InTFRfv0gIQCLaXfzjEA4DAVgrjrf",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1QLLTKeU7kfNxJXH7F6r31BGvxvzpAkkn",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Pink", "Purple", "Phantom"
+	]
+}

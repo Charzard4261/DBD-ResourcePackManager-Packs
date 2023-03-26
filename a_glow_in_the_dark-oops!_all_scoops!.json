@@ -1,0 +1,24 @@
+{
+	"name": "A Glow in the Dark - Oops! All Scoops!",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1YL5QrX34CEZdHuIkNsnENTmK2t0DLB1g",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1r-1kCX-R8CL4D58WAoRWroStev8TAN38",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		},
+		{
+			"name": "Basementgoose",
+			"link": ""
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Steve", "Scoops Ahoy", "Phantom", "Basementgoose"
+	]
+}

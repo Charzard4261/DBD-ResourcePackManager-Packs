@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Black Ice",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1GhmzhtNYNw4T_xpD8ZspzsQ5pqfc32v7",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1nUHZfrdQaMELTmc6YE1j4uqBbp_57y2o",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Blue", "Black", "Ice", "Phantom"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Royal Blue",
+	"chapter": 27.0,
+	"packVersion": 2.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1VsJNAHaQDpRYH8imNswSBqF2Skh2_Ak6",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=159Z9VCBf7I9QMoay9vdFrVZn6Yf-fToE",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Blue", "Gold", "Legacy", "Masquerade", "Phantom"
+	]
+}
