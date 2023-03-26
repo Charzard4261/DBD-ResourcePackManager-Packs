@@ -1,0 +1,20 @@
+{
+	"name": "A Glow in the Dark - Lost in the Woods",
+	"chapter": 27.0,
+	"packVersion": 1.0,
+	"bannerLink": "https://drive.google.com/uc?export=download&id=1sbvciwbdLSGjo9lkXbITjIIDbsnQqE6d",
+	"downloadLink": "https://drive.google.com/uc?export=download&id=1Aamnipjx-vWwP5cku5rS1YUVMWlb0-tH",
+	"fileType": "rar",
+	"credits": [
+		{
+			"name": "Phantom",
+			"link": "https://discord.gg/CzbG67FSJ9"
+		}
+	],
+	"contains": [
+		"Portraits", "Perks", "Items", "Addons", "Powers", "Offerings", "Miscellaneous UI"
+	],
+	"tags": [
+		"Glow", "Dark", "Neon", "Light", "Forest", "Woods", "Night", "Phantom"
+	]
+}
